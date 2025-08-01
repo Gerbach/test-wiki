@@ -1,0 +1,13 @@
+title: Linux Wiki
+theme: just-the-docs
+
+just_the_docs:
+  navigation:
+    - title: Startseite
+      url: /
+    - title: Releases
+      children:
+        - title: Release 1.0
+          url: /release-1.0
+        - title: Release 2.0
+          url: /release-2.0
