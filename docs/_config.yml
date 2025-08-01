@@ -1,5 +1,5 @@
 title: Linux Wiki
-theme: just-the-docs
+theme: jekyll-theme-minimal
 
 just_the_docs:
   navigation:
