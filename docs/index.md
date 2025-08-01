@@ -1,6 +1,9 @@
 # Willkommen im Linux Wiki
 
-Wähle ein Release aus der Navigation oder klicke auf einen der folgenden Links:
 
-- [Release 1.0](release-1.0.md)
-- [Release 2.0](release-2.0.md)
+<h2>Release auswählen:</h2>
+<select onchange="location = this.value;">
+  <option value="#">Bitte wählen</option>
+  <option value="release-1.0.html">Release 1.0</option>
+  <option value="release-2.0.html">Release 2.0</option>
+</select>
